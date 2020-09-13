@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on myFood demo website (React / Java Spring)
 - 🌱 I’m currently learning angular
 
