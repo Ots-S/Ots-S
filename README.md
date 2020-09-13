@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello ! 👋
 
 - 🔭 I’m currently working on myFood demo website (React / Java Spring)
 - 🌱 I’m currently learning angular
